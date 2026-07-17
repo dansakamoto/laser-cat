@@ -6,4 +6,9 @@ body {
 }
 canvas {
   display: block;
+  margin: auto;
+  max-width: 800px;
+  max-height: 700px;
+  width: 100vw !important;
+  height: 87.5vw !important;
 }
